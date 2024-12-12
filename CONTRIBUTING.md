@@ -1,3 +1,10 @@
+# Our Community
+We are a group of people who believe that Indigenous people in Canada should have equal access to healthcare and the autonomy to choose how they access care.
+
+Our community consists largely of volunteers who invest time in prioritizing Indigenous voices in shaping the future of Indigenous health in Canada.
+
+
+
 # How to contribute?
 
 Thank you for taking the time to contribute to this project. 🎉
@@ -42,7 +49,7 @@ You can also share this repository with someone who might be interested to get i
 You can read our [README](./README.md) file to find details and the next milestones in the project.
 You can also read different issues in this repository and comment where you would like to be involved.
 
-🎉 It's my life's mission to enable reproducibility in data science and research
+🎉 It's my life's mission to enable Indigenous access to healthcare
 ---
 
 Please share feedback on the contents proposed for setting up an online collaborative repository for data science and research.
@@ -62,12 +69,12 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
+For any organisation related queries or concerns, you can directly reach out to **Kim Mitchell by emailing [21kcmm@queensu.ca](mailto:21kcmm@queensu.ca)**.
 
 ♻️ License
 ---
 
-This work is licensed under the **MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation)**. 
+This work is licensed under the **Creative Commons Attribution 4.0 BY-NS-AS**. 
 <!--Replace these sentences to appropriate reflect the license chosen in your project-->
 You are free to share and adapt the material for any purpose, even commercially, 
 as long as you provide attribution (give appropriate credit, provide a link to the license, 

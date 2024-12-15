@@ -1,9 +1,8 @@
 # Directories and Files for Project Management
 
-Here are recommendations of directories (main bullet points) and files (sub-bullet points) that can be shared within the `project-management` (or `project_management`) folder of a project repository.
 
 * [ ] Project planning
-  * [ ] Funding applications
+  * [x] Funding applications
   * [ ] Ethical approval (here or in policies)
   * [ ] Data request forms
   * [ ] Data management plans

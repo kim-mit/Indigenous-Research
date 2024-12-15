@@ -3,23 +3,20 @@
 
 * [ ] Project planning
   * [x] Funding applications
-  * [ ] Ethical approval (here or in policies)
-  * [ ] Data request forms
+  * [x] Ethical applications and approval
+  * [ ] Project Change Management
+  * [x] Data collection instruments
   * [ ] Data management plans
-  * [ ] Reproducible publishing plan
 * [ ] Project proposals
-  * [ ] Original and subsequent proposals - using naming convention to indicate the submission dates
-  * [ ] Pre-registration report
-  * [ ] Budget overview
-  * [ ] Any modification in project plan
-  * [ ] Impact assessments plan
+  * [x] Original and subsequent proposals - using naming convention to indicate the submission dates
+  * [x] Budget overview
+  * [ ] Community relationship management
 * [ ] People folder
-  * [ ] Project leads
-  * [ ] Project members - be careful of GDPR rules when sharing  details
+  * [x] Project leads
+  * [x] Project members - be careful of GDPR rules when sharing  details
   * [ ] Stakeholder details - collaborators, partners, funders
-  * [ ] Organogram or organisation chart
+  * [ ] Organisation chart
 * [ ] Policies 
   * [ ] Authorship requirements (here or in policies)
-  * [ ] Official collaboration
-  * [ ] Data handling and sharing
-  * [ ] Organisation policy that may apply in the project
+  * [x] Data handling and sharing
+  * [x] Organisation policy that may apply in the project

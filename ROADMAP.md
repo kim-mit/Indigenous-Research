@@ -6,7 +6,7 @@
 - [ ] Add a README file
 - [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
 - [x] .gitignore file (choose from a template)
 - [ ] Issue templates
